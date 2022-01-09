@@ -1,9 +1,20 @@
 # wmt_micropython_study
 My micropython study
 
+## ref  
+* https://github.com/icopy-site/awesome-cn/blob/master/docs/awesome/awesome-micropython.md  
+
+## GUI  
+* https://github.com/peterhinch/micropython-lcd160cr-gui  
+
+## rshell  
+* https://github.com/dhylands/rshell  
+* https://github.com/tuupola/micropython-ili934x/blob/master/Makefile  
+
 ## oled12864, i2c, ssd1306  
 <> wio-rp2040  
 see https://github.com/makerportal/rpi-pico-ssd1306/blob/main/micropython/rpi_demo/main.py  
+see https://github.com/micropython/micropython/tree/master/drivers/display  
 search baidupan, 20220107.rar  
 oled12864<->wio-rp2040:  
 VCC<->right top 2  
@@ -14,6 +25,8 @@ SDA<->right top 7(GP26)
 ## 信泰微, spi, ili9341, 2.4 inch tft  
 <> wio-rp2040  
 see https://github.com/tabris2015/rpi-pico-oscilloscope  
+see https://github.com/mcauser/deshipu-micropython-ili9341  
+see https://github.com/tuupola/micropython-ili934x  
 search baidupan, 20220109.rar   
 ili9341 2.4inch tft<->wio-rp2040  
 VCC<->right top 2  
@@ -25,3 +38,6 @@ CS<->left bottom 5(or GND, left bottom 3)
 RST(RESET)<->left bottom 4  
 DC<->left bottom 2  
 LED(power)<->left bottom 1  
+
+<> m5stack  
+see https://github.com/jeffmer/micropython-ili9341  
