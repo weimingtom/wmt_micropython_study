@@ -2,6 +2,7 @@
 My micropython study
 
 ## ref  
+* http://www.lcdwiki.com  
 * https://github.com/mcauser/awesome-micropython  
 * https://github.com/icopy-site/awesome-cn/blob/master/docs/awesome/awesome-micropython.md  
 
@@ -13,6 +14,7 @@ My micropython study
 * https://github.com/tuupola/micropython-ili934x/blob/master/Makefile  
 
 ## oled12864, i2c, ssd1306  
+* http://www.lcdwiki.com/0.96inch_OLED_Module_MC096VX  
 <> wio-rp2040  
 see https://github.com/makerportal/rpi-pico-ssd1306/blob/main/micropython/rpi_demo/main.py  
 see https://github.com/micropython/micropython/tree/master/drivers/display  
@@ -24,6 +26,7 @@ SCL<->right top 6(GP27)
 SDA<->right top 7(GP26)  
 
 ## 信泰微, spi, ili9341, 2.4 inch tft  
+* http://www.lcdwiki.com/2.4inch_SPI_Module_ILI9341_SKU:MSP2402  
 <> wio-rp2040  
 see https://github.com/tabris2015/rpi-pico-oscilloscope  
 see https://github.com/mcauser/deshipu-micropython-ili9341  
