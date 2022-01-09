@@ -5,6 +5,8 @@ My micropython study
 * http://www.lcdwiki.com  
 * https://github.com/mcauser/awesome-micropython  
 * https://github.com/icopy-site/awesome-cn/blob/master/docs/awesome/awesome-micropython.md  
+* http://docs.micropython.01studio.org/zh_CN/latest/  
+* http://vcc-gnd.com/PYB/html/index.html  
 
 ## GUI  
 * https://github.com/peterhinch/micropython-lcd160cr-gui  
