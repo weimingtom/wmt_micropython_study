@@ -2,6 +2,7 @@
 My micropython study
 
 ## ref  
+* https://github.com/mcauser/awesome-micropython  
 * https://github.com/icopy-site/awesome-cn/blob/master/docs/awesome/awesome-micropython.md  
 
 ## GUI  
