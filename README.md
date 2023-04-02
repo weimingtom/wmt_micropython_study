@@ -51,3 +51,15 @@ LED(power)<->left bottom 1
 
 * m5stack  
 see https://github.com/jeffmer/micropython-ili9341  
+
+## st7789, 1.54inch, 240x240  
+* wio-rp2040  
+see https://gitee.com/eetree-git/RP2040_Game_Kit
+st7789 1.54inch 240x240 tft<->wio-rp2040, usb type c and run button on top left, chip face to me  
+GND<->right top 3  
+VCC<->right top 2  
+SCL<->IO2 //left top 4, spi0_sck  
+SDA<->IO3 //left top 5, spi0_tx  
+RES<->IO0 //left top 1 //see st7789_res=0  
+DC<->IO1  //left top 2 //see st7789_dc=1  
+BLK<->NC  
