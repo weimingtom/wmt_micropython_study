@@ -8,6 +8,10 @@ My micropython study
 * http://docs.micropython.01studio.org/zh_CN/latest/  
 * http://vcc-gnd.com/PYB/html/index.html  
 
+## Thonny 3.3.13   
+* https://thonny.org/  
+* main.py, not need if only run with Thonny  
+
 ## GUI  
 * https://github.com/peterhinch/micropython-lcd160cr-gui  
 
