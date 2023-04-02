@@ -52,7 +52,7 @@ LED(power)<->left bottom 1
 * m5stack  
 see https://github.com/jeffmer/micropython-ili9341  
 
-## st7789, 1.54inch, 240x240  
+## 中景园 IPS 240x240, st7789, 1.54inch, 240x240  
 * wio-rp2040  
 see https://gitee.com/eetree-git/RP2040_Game_Kit  
 search baidupan, 20230402.rar, 20230402.zip    
