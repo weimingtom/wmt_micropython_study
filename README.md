@@ -81,3 +81,7 @@ CS<->IO5//left top7
 DC<->IO1  //left top 2 //see st7789_dc=1  
 RST(RES)<->IO0 //left top 1 //see st7789_res=0  
 BL(BLK)<->IO13 //left bottom 4  
+* 昨天用树莓派pico和circuitpython驱动不了st7789的问题解决了，  
+我换了个屏就可以（使用钞能力），可能是因为reset脚的电平规则不同  
+（可能是因为中景园是低电平有效，而微雪屏是反过来的），  
+除了换屏，没有更好的办法了。运行dino效果如下  
