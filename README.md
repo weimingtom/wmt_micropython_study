@@ -66,3 +66,16 @@ SDA<->IO3 //left top 5, spi0_tx
 RES<->IO0 //left top 1 //see st7789_res=0  
 DC<->IO1  //left top 2 //see st7789_dc=1  
 BLK<->NC  
+
+## waveshare st7789 2.0inch lcd module 320x240  
+* rpi pico  
+rpipico_v2_dino_success_use_waveshare_rp2040_zero.rar  
+waveshare st7789 2.0inch lcd module 320x240 tft<->rpi pico  
+VCC<->right top 2  
+GND<->right top 3  
+DIN(SDA)<->IO3 //left top 5, spi0_tx  
+CLK(SCL)<->IO2 //left top 4, spi0_sck  
+CS<->IO5//left top7  
+DC<->IO1  //left top 2 //see st7789_dc=1  
+RST(RES)<->IO0 //left top 1 //see st7789_res=0  
+BL(BLK)<->IO13 //left bottom 4  
