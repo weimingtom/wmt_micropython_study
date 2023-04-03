@@ -67,7 +67,7 @@ RES<->IO0 //left top 1 //see st7789_res=0
 DC<->IO1  //left top 2 //see st7789_dc=1  
 BLK<->NC  
 
-## waveshare st7789 2.0inch lcd module 320x240  
+## 微雪, waveshare st7789 2.0inch lcd module 320x240  
 * rpi pico (with adafruit-circuitpython-waveshare_rp2040_zero-en_US-8.0.5.uf2)    
 see https://github.com/makerdiary/nrf52840-m2-devkit/tree/master/examples/python/dino  
 see https://github.com/adafruit/Adafruit_CircuitPython_ST7789/blob/main/examples/st7789_240x240_simpletest_Waveshare_PicoLCD_1_3.py  
