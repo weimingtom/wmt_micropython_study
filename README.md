@@ -21,7 +21,7 @@ My micropython study
 
 ## oled12864, i2c, ssd1306  
 * see http://www.lcdwiki.com/0.96inch_OLED_Module_MC096VX  
-* wio-rp2040  
+* wio-rp2040 (with 1.15.3.uf2)    
 see https://github.com/makerportal/rpi-pico-ssd1306/blob/main/micropython/rpi_demo/main.py  
 see https://github.com/micropython/micropython/tree/master/drivers/display  
 search baidupan, 20220107.rar  
@@ -33,7 +33,7 @@ SDA<->right top 7(GP26)
 
 ## 信泰微, spi, ili9341, 2.4 inch tft  
 * see http://www.lcdwiki.com/2.4inch_SPI_Module_ILI9341_SKU:MSP2402  
-* wio-rp2040  
+* wio-rp2040 (with 1.15.3.uf2)    
 see https://github.com/tabris2015/rpi-pico-oscilloscope  
 see https://github.com/mcauser/deshipu-micropython-ili9341  
 see https://github.com/tuupola/micropython-ili934x  
@@ -53,7 +53,7 @@ LED(power)<->left bottom 1
 see https://github.com/jeffmer/micropython-ili9341  
 
 ## 中景园 IPS 240x240, st7789, 1.54inch, 240x240  
-* wio-rp2040  
+* wio-rp2040 (with 1.15.3.uf2)    
 see https://gitee.com/eetree-git/RP2040_Game_Kit  
 see https://www.eetree.cn/project/detail/698  
 search game2040-V3-20211228.pdf  
@@ -68,7 +68,7 @@ DC<->IO1  //left top 2 //see st7789_dc=1
 BLK<->NC  
 
 ## waveshare st7789 2.0inch lcd module 320x240  
-* rpi pico  
+* rpi pico (with adafruit-circuitpython-waveshare_rp2040_zero-en_US-8.0.5.uf2)    
 rpipico_v2_dino_success_use_waveshare_rp2040_zero.rar  
 waveshare st7789 2.0inch lcd module 320x240 tft<->rpi pico  
 VCC<->right top 2  
